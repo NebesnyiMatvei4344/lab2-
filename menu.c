@@ -29,7 +29,7 @@ int main() {
         printf("%d\n", sum_before_and_after(asa, oso));
         break;
     default:
-        puts("Данные некорректны");
+        puts("Р”Р°РЅРЅС‹Рµ РЅРµРєРѕСЂСЂРµРєС‚РЅС‹");
     }
     return 0;
 }
